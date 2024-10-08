@@ -17,5 +17,5 @@ This project is a simple JavaScript program that computes and displays a student
 7. Whether the student passed or failed the course.
 
 ## **License**
-This project is licensed under the GNU License.
+This project is licensed under the [GNU](https://github.com/stephenombuya/student-gradebook/blob/main/LICENSE) License.
 
